@@ -1,0 +1,24 @@
+{
+  "name": "picase",
+  "version": "1.0.0",
+  "description": "A slim case for a Raspberry Pi B+",
+  "main": "main.jscad",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Cole",
+  "license": "ISC",
+  "dependencies": {
+    "jscad-raspberrypi": "^1.1.2",
+    "jscad-utils": "^2.0.0"
+  },
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-inject": "^3.0.0",
+    "gulp-jscad-files": "^1.0.0",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-watch": "^4.3.5"
+  }
+}
