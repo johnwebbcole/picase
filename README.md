@@ -10,7 +10,7 @@ Here is a [live example](http://openjscad.org/#https://raw.githubusercontent.com
 
 ## Installation
 
-You need to have [Node.js](https://nodejs.org) and [gulpjs](http://gulpjs.com/) installed. Clone this repository and run `npm install` then `gulp`. Then drage the `dist/picase.jscad` file into drag and drop area of [openjscad.org](http://openjscad.org).
+You need to have [Node.js](https://nodejs.org) and [gulpjs](http://gulpjs.com/) installed. Clone this repository and run `npm install` then `gulp`. Then drag the `dist/picase.jscad` file into drag and drop area of [openjscad.org](http://openjscad.org).
 
 ![Drag and Drop Area](dragndrop.png)
 
